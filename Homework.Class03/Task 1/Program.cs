@@ -16,8 +16,8 @@ for (int i = 0; i < numbersArray.Length; i++)
     }
     else
     {
-        Console.WriteLine("Please enter a number!"); // koga ke vnesam pogresen input me nosi na slednoto iteriranje, kako da me vrati na istoto
-        // primer vnesi random broj 1: i vnesnuvame gresen input i naredno ne nosi na vnesi random broj 2...
+        Console.WriteLine("Please enter a number!");
+        i--;
     }
 }
 

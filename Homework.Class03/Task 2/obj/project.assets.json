@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 2\\Task 2.csproj",
+      "projectUniqueName": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 2\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 2\\Task 2.csproj",
+      "projectPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\Mice\\.nuget\\packages\\",
-      "outputPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 2\\obj\\",
+      "outputPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mice\\AppData\\Roaming\\NuGet\\NuGet.Config",

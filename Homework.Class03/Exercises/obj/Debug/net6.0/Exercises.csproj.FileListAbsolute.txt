@@ -1,0 +1,15 @@
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\bin\Debug\net6.0\Exercises.exe
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\bin\Debug\net6.0\Exercises.deps.json
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\bin\Debug\net6.0\Exercises.runtimeconfig.json
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\bin\Debug\net6.0\Exercises.dll
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\bin\Debug\net6.0\Exercises.pdb
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.csproj.AssemblyReference.cache
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfoInputs.cache
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfo.cs
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.csproj.CoreCompileInputs.cache
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.dll
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\refint\Exercises.dll
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.pdb
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\Exercises.genruntimeconfig.cache
+D:\Mice\2. Web Dev\4. C# Basics\class03\Homework.Class03\Exercises\obj\Debug\net6.0\ref\Exercises.dll

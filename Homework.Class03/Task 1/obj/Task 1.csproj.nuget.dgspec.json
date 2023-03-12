@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 1\\Task 1.csproj": {}
+    "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 1\\Task 1.csproj": {}
   },
   "projects": {
-    "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 1\\Task 1.csproj": {
+    "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 1\\Task 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 1\\Task 1.csproj",
+        "projectUniqueName": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 1\\Task 1.csproj",
         "projectName": "Task 1",
-        "projectPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 1\\Task 1.csproj",
+        "projectPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 1\\Task 1.csproj",
         "packagesPath": "C:\\Users\\Mice\\.nuget\\packages\\",
-        "outputPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class05\\Homework_02\\Task 1\\obj\\",
+        "outputPath": "D:\\Mice\\2. Web Dev\\4. C# Basics\\class03\\Homework.Class03\\Task 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mice\\AppData\\Roaming\\NuGet\\NuGet.Config",
