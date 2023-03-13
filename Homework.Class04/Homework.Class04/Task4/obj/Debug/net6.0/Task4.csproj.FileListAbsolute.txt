@@ -1,0 +1,15 @@
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\bin\Debug\net6.0\Task4.exe
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\bin\Debug\net6.0\Task4.deps.json
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\bin\Debug\net6.0\Task4.dll
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\bin\Debug\net6.0\Task4.pdb
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.dll
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\refint\Task4.dll
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.pdb
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+D:\Mice\2. Web Dev\4. C# Basics\class04\Homework.Class04\Homework.Class04\Task4\obj\Debug\net6.0\ref\Task4.dll
